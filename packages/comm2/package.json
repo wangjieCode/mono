@@ -1,6 +1,6 @@
 {
   "name": "@wangjie/comm2",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "> TODO: description",
   "author": "wangjie <1787612871@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@wangjie/comm1": "^1.0.4",
+    "@wangjie/comm1": "^1.1.0",
     "lodash": "^4.17.21"
   }
 }
