@@ -1,0 +1,12 @@
+.DS_Store
+/node_modules/
+coverage/
+package-lock.json
+lib/
+# /example/
+
+build
+
+dist
+
+node_modules
